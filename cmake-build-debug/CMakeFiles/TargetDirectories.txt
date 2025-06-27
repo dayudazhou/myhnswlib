@@ -1,0 +1,3 @@
+/Users/vauni/CLionProjects/hnswlib/cmake-build-debug/CMakeFiles/hnswlib.dir
+/Users/vauni/CLionProjects/hnswlib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vauni/CLionProjects/hnswlib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
