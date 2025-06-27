@@ -10,7 +10,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="hnswlib" targetName="hnswlib" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -18,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d0dd77-1e3f-45c8-9c2b-63e9da39b10a" name="更改" comment="更新1">
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    <list default="true" id="c4d0dd77-1e3f-45c8-9c2b-63e9da39b10a" name="更改" comment="更新2">
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +64,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "branch1",
     "last_opened_file_path": "/Users/vauni/CLionProjects/hnswlib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1751014324934</updated>
-      <workItem from="1751014326131" duration="1430000" />
+      <workItem from="1751014326131" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -135,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751015171310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新1">
+      <option name="closed" value="true" />
+      <created>1751015890981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751015890981</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新2">
+      <option name="closed" value="true" />
+      <created>1751015940070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751015940070</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +185,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="初始化" />
     <MESSAGE value="更新1" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新1" />
+    <MESSAGE value="更新2" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新2" />
   </component>
 </project>
